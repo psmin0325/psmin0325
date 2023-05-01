@@ -1,7 +1,11 @@
 ### Hi there 👋
 I'm SangMin
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psmin0325&show_icons=true&locale=en&layout=compact" alt="psmin0325" /></p>
-<a href="<URL>" target="_blank"><img src="https://img.shields.io/badge/<NAME>-<COLOR CODE(#빼서)>?style=flat-square&logo=<ICON>&logoColor=white"/></a>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psmin0325&show_icons=true&locale=en&layout=compact" alt="psmin0325" />
+</p>
+<a href="https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%EB%B0%95-804a82264/" target="_blank">
+  <img src="https://img.shields.io/badge/<NAME>-<COLOR CODE(#빼서)>?style=flat-square&logo=<ICON>&logoColor=white"/>
+</a>
 - graduated dongguk university computer engineering (2017.03-2023.02)
 - complete a course in SKT-Flyai 2nd stage (2022.12-2023.02)
 - now I learn AI-course in yeardream school (2023.03-)
