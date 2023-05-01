@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm SangMin
+
+graduated dongguk university computer engineering (2017.03-2023.02)
+complete a course in SKT-Flyai 2nd stage (2022.12-2023.02)
+now I learn AI-course in yeardream school (2023.03-)
 
 <!--
 **psmin0325/psmin0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
