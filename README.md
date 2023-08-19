@@ -1,26 +1,35 @@
-### Hi there 👋
-I'm SangMin
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psmin0325&show_icons=true&locale=en&layout=compact" alt="psmin0325" />
-</p>
-<a href="https://www.linkedin.com/in/%EC%83%81%EB%AF%BC-%EB%B0%95-804a82264/" target="_blank">
-  <img src="https://img.shields.io/badge/<LinkedIn>-<COLOR CODE(#빼서)>?style=flat-square&logo=<ICON>&logoColor=white"/>
-</a>
-- graduated dongguk university computer engineering (2017.03-2023.02)
-- complete a course in SKT-Flyai 2nd stage (2022.12-2023.02)
-- now I learn AI-course in yeardream school (2023.03-)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20I'm%20SangMin%20✌️&fontSize=40)
 
-<!--
-**psmin0325/psmin0325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsmin0325&count_bg=%233DA2C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ <br/>
+ <br/>
+<!--### 🚀 Introduction
+ A bachelor's degree in computer engineering (2017.3 - 2023.2)
+ SKT Flyai Boot Camp Completed (2022.12 - 2023.2)
+ Yeardream School 3rd gen is in progress (2023.3 - )-->
+ 
+### 💻 Skills
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=black"/><img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Java-FFA726?style=for-the-badge&logo=Java&logoColor=white"/>
+ <br/>
+ <br/>
+### 📚 Studying
+ 
+ <img src="https://img.shields.io/badge/[Tech Stack]-[Color]?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/><img src="https://img.shields.io/badge/[Tech Stack]-[Color]?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/>
+ <br/>
+ <br/>
+### 💪 Problem Solving
+ 
+ [![Solved.ac
+ 프로필](http://mazassumnida.wtf/api/generate_badge?boj=psmin0325)](https://solved.ac/psmin0325)
+ <br/>
+ <br/>
+ ### 📜 My History
+ A bachelor's degree in computer engineering (2017.3 - 2023.2)
+ SKT Flyai Boot Camp Completed (2022.12 - 2023.2)
+ Yeardream School 3rd gen is in progress (2023.3 - )
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=psmin0325&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psmin0325&layout=compact&theme=tokyonight)
