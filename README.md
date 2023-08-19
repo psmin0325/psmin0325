@@ -13,7 +13,7 @@
  <br/>
 ### 📚 Studying
  
- <img src="https://img.shields.io/badge/PyTorch-#239120?style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Linear Algebra-#8A2BE2?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PyTorch-239120?style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Linear Algebra-8A2BE2?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/>
  <br/>
  <br/>
 ### ✏️ Problem Solving
