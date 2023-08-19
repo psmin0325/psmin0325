@@ -14,10 +14,11 @@
  <img src="https://img.shields.io/badge/PyTorch-239120?style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Linear Algebra-8A2BE2?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/>
 <hr>
 
- ### ✏️ Problem Solving
+ ### ✏️ Badge
  
  [![Solved.ac
  프로필](http://mazassumnida.wtf/api/generate_badge?boj=psmin0325)](https://solved.ac/psmin0325)
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=psmin0325&show_icons=true&theme=tokyonight)
 <hr>
 
 ### 📜 Experience
@@ -28,5 +29,3 @@
 <hr>
 
 </div>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=psmin0325&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psmin0325&layout=compact&theme=tokyonight)
