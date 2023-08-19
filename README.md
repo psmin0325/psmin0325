@@ -15,7 +15,7 @@
 
 
 ### 📜 Experience
- - A bachelor's degree in computer engineering (2017.3 - 2023.2)
+ - Dongguk University WISE, COMPUTER ENGINEERING (2017.3 - 2023.2)
 	- GPA 4.11/4.5.
  - SKT Flyai Boot Camp Completed (2022.12 - 2023.2)
  - Yeardream School 3rd gen is in progress (2023.3 - )
