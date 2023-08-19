@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/java-FFA726?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### 📚 Studying
- <img src="https://img.shields.io/badge/PyTorch-239120?style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/Linear Algebra-8A2BE2?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/>
+ <img src="https://img.shields.io/badge/PyTorch-239120?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Linear Algebra-8A2BE2?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/>
 
 
 ### ✏️ Badge
