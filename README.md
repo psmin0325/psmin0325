@@ -1,12 +1,12 @@
 ### 박상민 Sangmin Park
 
-
 ### 💻 Skills
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/java-FFA726?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/> <img src="https://img.shields.io/badge/java-FFA726?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> </br>
+ <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/> </br>
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### 📚 Studying
- <img src="https://img.shields.io/badge/PyTorch-239120?style=for-the-badge&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Linear Algebra-8A2BE2?style=for-the-badge&logo=[Tech Stack]&logoColor=white"/>
+ - I'm currently studying for the backend.
 
 
 ### ✏️ Badge
@@ -18,4 +18,4 @@
  - Dongguk University WISE, COMPUTER ENGINEERING (2017.3 - 2023.2)
 	- GPA 4.11/4.5.
  - SKT Flyai Boot Camp Completed (2022.12 - 2023.2)
- - Yeardream School 3rd gen is in progress (2023.3 - )
+ - Yeardream School 3rd gen is in progress (2023.3 - 2023.12)
